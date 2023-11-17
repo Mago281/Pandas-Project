@@ -1,43 +1,78 @@
 # pandas-challenge
 
-# Module 4 Challenge
-
-## Assistance from
--------------------
-
-1.  Tuition session with Michael Wenz
-
-2.  1-on-1 tutor Jesse Wright
-
-3.  TA Vicky Liao
-
-4.  Office hours
-
-5.  Ask BCS
-
-6.  ChatGPT
-
-7.  W3Schools
-
-8.  Stack Overflow
-
-
-## YouTube Videos & Cheat Sheets
---------------------------------
-
-1.  from Mark Jenson: 	Python Beginner - https://www.learnpython.org/Python Scripting - https://automatetheboringstuff.com/
-
-2.  Python Reference Guide:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/Python_Reference_Guide.ipynb
-
-3.  Conda Cheat Sheet:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/03-Python/Supplemental/conda-cheatsheet.pdf
-
-
-## In-Class Activities
+# PyCity School
 ----------------------
 
-1.  Module 4 Class 1 Activities	06, 08, 10
+## Introduction
 
-2.  Module 4 Class 2 Activities	06, 07, 10, 12
+In this challenge, I will be creating and manipulating Pandas DataFrames to analyse school and standardised test data.
 
-3.  Module 4 Class 3 Activity	03
+The PyCitySchools Jupyter Notebok and following excel files were provided for this challenge:
+
+   ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71)
+
+
+I used the sample solution called PyCitySchools_starter.ipynb  to review the desired format for this assignment.
+
+Using Pandas and Jupyter Notebook, I created a report that include the following data and included a written description of two observable trends based on the data.
+
+________________________________________
+
+
+Applying Python Pandas into analysis via Jupyter Notebook.
+Objective & Overview
+I am the new Chief Data Scientist for my local government area.  I have been tasked to analyse the area-wide standardised test results, for maths and reading, to assist the school board and mayor make strategic decisions regarding future school budgets and priorities.
+The raw data given included every student’s math and reading scores, as well as various information on the schools they attended.  The final report includes each of the following:
+•	District Summary
+•	School Summary
+•	Top 5 Performing Schools (By % Overall Passing)
+•	Bottom 5 Performing Schools (By % Overall Passing)
+•	Scores by Grade (9th to 12th)
+o	Math scores
+o	Reading scores
+•	Scores by different categories
+o	School Spending
+o	School Size
+o	School Type
+•	Analysis
+________________________________________
+Analysis
+Local Government Area Summary
+ 
+School Summary
+ 
+
+Highest 5 Performing Schools by Percentage of Overall Passing
+ 
+
+Lowest 5 Performing Schools by Percentage of Overall Passing
+ 
+
+Scores by Grade (Grades 9 to 12)
+
+	Math scores by Grade
+ 
+
+	Reading scores by Grade
+
+ 
+
+Scores by School Spending
+
+ 
+
+ 
+
+Scores by School Size
+
+ 
+
+ 
+
+Scores by School Type
+
+  
+
+________________________________________
+
 
