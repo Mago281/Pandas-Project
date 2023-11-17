@@ -45,8 +45,7 @@ The final report includes each of the following:
 ________________________________________
 
 ## Analysis
-________________________________________
-________________________________________
+
 
 **Local Government Area Summary**
 
