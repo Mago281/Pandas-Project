@@ -42,7 +42,7 @@ The final report includes each of the following:
    - School Size
    - School Type
    - Analysis
-   - 
+
 ________________________________________
 
 ## Analysis
