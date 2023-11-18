@@ -22,6 +22,7 @@ Using Pandas and Jupyter Notebook, I created a report that included the followin
 
 
 **Background - Objective & Overview**
+----------------------
 
 In my capacity as the new Chief Data Scientist for my local government area, I will be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
