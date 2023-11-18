@@ -18,7 +18,7 @@ I used the sample solution called *PyCitySchools_starter.ipynb*  to review the d
 
 Using Pandas and Jupyter Notebook, I created a report that included the following data and included a written description of two observable trends based on the data.
 
-
+---
 
 
 **Background - Objective & Overview**
