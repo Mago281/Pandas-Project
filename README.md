@@ -9,12 +9,11 @@
 
 In this challenge, I will be creating and manipulating Pandas DataFrames to analyse school and standardised test data.
 
-The *PyCitySchools* Jupyter Notebook and following excel files were provided for this challenge:
+The `PyCitySchools` Jupyter Notebook and following excel files were provided for this challenge:
 
    ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71)
 
-
-I used the sample solution called *PyCitySchools_starter.ipynb*  to review the desired format for this assignment.
+I used the sample solution called `PyCitySchools_starter.ipynb`  to review the desired format for this assignment.
 
 Using Pandas and Jupyter Notebook, I created a report that included the following data and included a written description of two observable trends based on the data.
 
@@ -29,7 +28,6 @@ In my capacity as the new Chief Data Scientist for my local government area, I w
 As a first task, I have been asked to analyse the area-wide standardised test results.  I have been given access to every student's maths and reading scores, as well as various information on the schools they attend.  My task is to aggregate the data to showcase obvious trends in school performance.
 
 The final report includes each of the following:
-
    - District Summary
    - School Summary
    - Top 5 Performing Schools (By % Overall Passing)
