@@ -47,7 +47,7 @@ ________________________________________
 ________________________________________
 
 
-**Local Government Area Summary**
+### Local Government Area Summary
 
 Performed calculations and then created a high-level snapshot of the `local government area's key metrics` in a DataFrame:
 
@@ -57,7 +57,7 @@ Performed calculations and then created a high-level snapshot of the `local gove
 
 ________________________________________
  
-**School Summary**
+### School Summary
 
 Performed the necessary calculations and then created a DataFrame that `summarised key metrics about each school`:
 <br>
@@ -74,7 +74,7 @@ $${\color{blue}**Note:** \space \color{orangered}A  \space \color{orangered}pass
 
 ________________________________________
 
-**Highest 5 Performing Schools by Percentage of Overall Passing**
+### Highest 5 Performing Schools by Percentage of Overall Passing
 
 Sorted the schools by `% Overall Passing` in descending order and displayed the top 5 rows:
 
@@ -82,7 +82,7 @@ Sorted the schools by `% Overall Passing` in descending order and displayed the 
 
 ________________________________________
 
-**Lowest 5 Performing Schools by Percentage of Overall Passing**
+### Lowest 5 Performing Schools by Percentage of Overall Passing
 
 Sorted the schools by `% Overall Passing` in ascending order and displayed the top 5 rows:
 
@@ -90,10 +90,10 @@ Sorted the schools by `% Overall Passing` in ascending order and displayed the t
 
 ________________________________________
 
-**Scores by Grade (Grades 9 to 12)**
+### Scores by Grade (Grades 9 to 12)
 ________________________________________
 
-**Math scores by Grade**
+### Math scores by Grade
 
 Performed the necessary calculations to create a DataFrame that listed the `average maths score` for students of each `year level (9, 10, 11, 12)` at each school:
 
@@ -101,7 +101,7 @@ Performed the necessary calculations to create a DataFrame that listed the `aver
 
 ________________________________________ 
 
-**Reading scores by Grade**
+### Reading scores by Grade
 
 Create a DataFrame that lists the `average reading score` for students of each `year level (9, 10, 11, 12)` at each
 school.
@@ -110,7 +110,7 @@ school.
 
 ________________________________________
 
-**Scores by School Spending**
+### Scores by School Spending
 
 Created a table that broke down `school performance based on average spending ranges` (per student).
 
@@ -125,7 +125,7 @@ Used the scores above to create a DataFrame called _`spending_summary`_.
 
 ________________________________________
 
-**Scores by School Size**
+### Scores by School Size
 
 Binned the _`per_school_summary`_:
 
@@ -138,7 +138,7 @@ medium, or large).
 
 ________________________________________
 
-**Scores by School Type**
+### Scores by School Type
 
 Used the _`per_school_summary`_ DataFrame from the previous step to create a new DataFrame called _`type_summary`_.
 
@@ -151,7 +151,7 @@ ________________________________________
 
 
 
-**Analysis**
+## Analysis
 ----------------------
 
 
