@@ -60,6 +60,19 @@ ________________________________________
 
 Performed the necessary calculations and then created a DataFrame that `summarised key metrics about each school`:
 
+
+<br>
+<br>
+
+
+$${\color{blue}**Note:** \space \color{orangered}A  \space \color{orangered}passing \space \color{orangered}grade \space \color{orangered}is \space \color{blue}50 \space \color{orangered}or \space \color{blue}higher.:}$$ 
+
+<p align="left">
+
+</p>  
+
+<br>
+
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/b946ab5b-939b-4683-a811-db31e8747a4b)
 
 ________________________________________
