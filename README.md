@@ -11,7 +11,7 @@ In this challenge, I will be creating and manipulating Pandas DataFrames to anal
 
 The `PyCitySchools` Jupyter Notebook and following excel files were provided for this challenge:
 
-   <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71" width="160" height="60">
+   <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71" width="160" height="65">
 
 I used the sample solution called `PyCitySchools_starter.ipynb`  to review the desired format for this assignment.
 
