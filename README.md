@@ -43,7 +43,7 @@ The final report includes each of the following:
 
 ________________________________________
 
-## Report with Analysis
+## Analysis with Report
 
 
 **Local Government Area Summary**
