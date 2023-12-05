@@ -75,7 +75,7 @@ ________________________________________
 
 **Highest 5 Performing Schools by Percentage of Overall Passing**
 
-Sorted the schools by `% Overall Passing' in descending order and displayed the top 5 rows:
+Sorted the schools by `% Overall Passing` in descending order and displayed the top 5 rows:
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/45653e1c-7282-49d8-9415-2e6cc4ec7c2d)
 
