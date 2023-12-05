@@ -63,7 +63,7 @@ Performed the necessary calculations and then created a DataFrame that `summaris
 <br>
 
 
-$${\color{magenta}**Note:** \space \color{magenta}A  \space \color{blue}passing \space \color{blue}grade \space \color{orangered}is \space \color{blue}50 \space \color{magenta}or \space \color{blue}higher.:}$$ 
+$${\color{arrivaplum}**Note:** \space \color{magenta}A  \space \color{indigo}passing \space \color{blue}grade \space \color{magenta}is \space \color{blue}50 \space \color{magenta}or \space \color{blue}higher.:}$$ 
 <p align="left">
 </p>  
 
