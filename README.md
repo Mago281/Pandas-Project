@@ -58,6 +58,8 @@ Performed calculations and then created a high-level snapshot of the `local gove
 
 $${\color{blue}**Note:** \space \color{orangered}A  \space \color{orangered}passing \space \color{orangered}grade \space \color{orangered}is \space \color{blue}50 \space \color{orangered}or \space \color{blue}higher.:}$$ 
 
+<p align="left">
+
 </p>  
 
 <br>
