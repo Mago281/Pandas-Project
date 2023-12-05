@@ -94,7 +94,7 @@ ________________________________________
 
 **Math scores by Grade**
 
-Performed the necessary calculations to create a DataFrame that listed the `average **maths** score` for students of each `year level (9, 10, 11, 12)` at each school:
+Performed the necessary calculations to create a DataFrame that listed the `average maths score` for students of each `year level (9, 10, 11, 12)` at each school:
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/973cb0f5-a537-4032-bda8-4b62caedb9bd)
 
@@ -102,7 +102,7 @@ ________________________________________
 
 **Reading scores by Grade**
 
-Create a DataFrame that lists the `average **reading** score` for students of each `year level (9, 10, 11, 12)` at each
+Create a DataFrame that lists the `average reading score` for students of each `year level (9, 10, 11, 12)` at each
 school.
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/868e97d3-a39c-4376-8588-27de7648bf5e)
