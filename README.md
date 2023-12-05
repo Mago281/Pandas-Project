@@ -51,6 +51,16 @@ ________________________________________
 Performed calculations and then created a high-level snapshot of the `local government area's key metrics` in a DataFrame:
 
 **Note: _A passing grade is 50 or higher._**
+<br>
+<br>
+
+$${\color{blue}**Note: _A passing grade is 50 or higher._**page:}$$ 
+<p align="center">
+  <a href="https://diabetes-prediction-analysis-2023.streamlit.app/">Diabetes Predictor page</a>
+</p>  
+
+<br>
+
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/13bf2d4e-35a2-4693-9f38-a671dd283a6b)
 
