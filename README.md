@@ -115,7 +115,7 @@ Created a table that broke down `school performance based on average spending ra
 
 Created four bins with reasonable cutoff values to group school spending and categorised spending based on these bins:
 
-<img src="https://github.com/Mago281/pandas-challenge/assets/131424690/2079f0f9-b0d2-445d-b5a5-d556a9efa331" width="500" height="100">
+<img src="https://github.com/Mago281/pandas-challenge/assets/131424690/2079f0f9-b0d2-445d-b5a5-d556a9efa331" width="700" height="100">
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/ff203710-c690-4377-9af5-42647fded64c)
  
