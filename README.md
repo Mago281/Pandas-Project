@@ -56,8 +56,7 @@ Performed calculations and then created a high-level snapshot of the `local gove
 <br>
 
 
-$${\color{blue}Note: A passing grade is 50 or higher.page:}$$ 
-<p align="center">
+$${\color{blue}**Note:** \space \color{orangered}A  \space \color{orangered}passing \space \color{orangered}grade \space \color{orangered}is \space \color{blue}50 \space \color{orangered}or \space \color{blue}higher.:}$$ 
 
 </p>  
 
