@@ -1,6 +1,6 @@
 # pandas-challenge
 
-# PyCity School
+# PyCitySchool
 ----------------------
 
 ## Introduction
