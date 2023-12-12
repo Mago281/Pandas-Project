@@ -149,13 +149,12 @@ ________________________________________
 ________________________________________
 
 ### Budget Allocation Impact:
-
 Schools with higher budgets do not necessarily guarantee higher academic performance.  The analysis of spending ranges indicated that lower per student spending is associated with lower average scores and passing rates.
 
 
 ### School Size Matters:
-
 Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes may contribute to higher academic success.
+
 
 
 In conclusion, a targeted approach to budget allocation and class size reduction could potentially improve academic outcomes in the local government area.  It is essential to consider these insights when planning future educational initiatives.
