@@ -149,14 +149,15 @@ ________________________________________
 ________________________________________
 
 ### Budget Allocation Impact:
-Schools with higher budgets do not necessarily guarantee higher academic performance.  The analysis of spending ranges indicated that lower per student spending is associated with lower average scores and passing rates.
-
+From the 5 Highest-Performing and 5 Lowest-Performing Schools, the analysis showed that funding did not make a significant impact to the results obtained.  Schools with higher budgets do not necessarily guarantee higher academic performance.  The analysis of spending ranges indicated that lower per student spending was associated with lower average scores and passing rates.    
 
 ### School Size Matters:
-Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes may contribute to higher academic success.
+Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes contribute to higher academic success i.e. there was an inverse correlation between the size of a school and the results achieved:  larger student numbers showed lower scores.     
 
-
-
+### School Type:
+Independent schools had smaller student numbers and less budget allocated per student.  They performed 6.27% higher overall than Government schools; this is a significant difference.  In particular, Independent schools performed 4.74% better in Maths and 2.66% better Reading.   
+.
+.
 In conclusion, a targeted approach to budget allocation and class size reduction could potentially improve academic outcomes in the local government area.  It is essential to consider these insights when planning future educational initiatives.
 
 
