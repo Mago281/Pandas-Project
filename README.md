@@ -155,9 +155,12 @@ From the 5 Highest-Performing and 5 Lowest-Performing Schools, the analysis show
 Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes contribute to higher academic success i.e. there was an inverse correlation between the size of a school and the results achieved:  larger student numbers showed lower scores.     
 
 ### School Type:
-Independent schools had smaller student numbers and less budget allocated per student.  They performed 6.27% higher overall than Government schools; this is a significant difference.  In particular, Independent schools performed 4.74% better in Maths and 2.66% better Reading.   
+Independent schools had smaller student numbers and less budget allocated per student.  They performed 6.27% higher overall than Government schools; this is a significant difference.  In particular, Independent schools performed 4.74% better in Maths and 2.66% better Reading. 
+
 .
+
 .
+
 In conclusion, a targeted approach to budget allocation and class size reduction could potentially improve academic outcomes in the local government area.  It is essential to consider these insights when planning future educational initiatives.
 
 
