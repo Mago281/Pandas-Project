@@ -145,9 +145,20 @@ This new DataFrame `shows school performance` based on the `"School Type"`.
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/e632d31b-7c31-4864-b80e-d0ff89fc639e)
 
 ________________________________________
-## Report
+## Summary of Analysis
 ________________________________________
 
+**Budget Allocation Impact:**
+
+Schools with higher budgets do not necessarily guarantee higher academic performance.  The analysis of spending ranges indicated that lower per student spending is associated with lower average scores and passing rates.
+
+
+**School Size Matters:**
+
+Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes may contribute to higher academic success.
+
+
+In conclusion, a targeted approach to budget allocation and class size reduction could potentially improve academic outcomes in the local government area.  It is essential to consider these insights when planning future educational initiatives.
 
 
 
