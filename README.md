@@ -64,7 +64,6 @@ ________________________________________
 A detailed breakdown of each school's performance metrics was presented, shedding light on crucial aspects such as passing grades and overall performance:
 <br>
 
-
 $${\color{black}**Note:** \space \color{black}A  \space \color{blue}passing \space \color{blue}grade \space \color{black}is \space \color{blue}50 \space \color{black}or \space \color{blue}higher}$$ 
 <p align="left">
 </p>  
