@@ -116,8 +116,6 @@ A detailed examination of school performance vis-a-vis average spending ranges p
  
 Implemented four bins with appropriate cutoff values to categorize school spending, thereby enhancing the organization of expenditure data:
 
-<img src="https://github.com/Mago281/pandas-challenge/assets/131424690/2079f0f9-b0d2-445d-b5a5-d556a9efa331" width="430" height="45">
-
 Utilized the aforementioned scoring metrics to construct a meticulously structured DataFrame termed _`spending_summary`_
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/7e213fd4-f47c-4a72-92ed-b2bf8b5b32fa)
@@ -125,6 +123,8 @@ Utilized the aforementioned scoring metrics to construct a meticulously structur
 ________________________________________
 
 ### Scores by School Size
+
+Stratifying school performance based on size categories facilitated a nuanced understanding of the impact of school size on academic achievements:
 
 Binned the _`per_school_summary`_:
 
@@ -139,6 +139,8 @@ ________________________________________
 
 ### Scores by School Type
 
+The analysis also examined school performance concerning different types, providing insights into variations based on institutional characteristics.
+
 Used the _`per_school_summary`_ DataFrame from the previous step to create a new DataFrame called _`type_summary`_.
 
 This new DataFrame `shows school performance` based on the `"School Type"`.
@@ -150,17 +152,18 @@ ________________________________________
 ________________________________________
 
 ### Budget Allocation Impact:
-From the 5 Highest-Performing and 5 Lowest-Performing Schools, the analysis showed that funding did not make a significant impact to the results obtained.  Schools with higher budgets do not necessarily guarantee higher academic performance.  The analysis of spending ranges indicated that lower per student spending was associated with lower average scores and passing rates.    
+Analysis revealed that funding levels did not consistently correlate with academic performance.  Lower per-student spending was associated with lower average scores and passing rates.
 
 ### School Size Matters:
-Smaller schools tended to outperform larger ones.  The data suggests that smaller class sizes contribute to higher academic success i.e. there was an inverse correlation between the size of a school and the results achieved:  larger student numbers showed lower scores.     
+Smaller schools tended to outperform larger ones, suggesting that smaller class sizes contributed to higher academic success.     
 
 ### School Type:
-Independent schools had smaller student numbers and less budget allocated per student.  They performed 6.27% higher overall than Government schools; this is a significant difference.  In particular, Independent schools performed 4.74% better in Maths and 2.66% better Reading. 
+Independent schools, despite lower per-student budgets, exhibited higher overall performance compared to government schools, indicating potential efficiency differences between the two systems.
+In particular, Independent schools performed 4.74% better in Maths and 2.66% better Reading. 
 
 ---
 
-In conclusion, a targeted approach to budget allocation and class size reduction could potentially improve academic outcomes in the local government area.  It is essential to consider these insights when planning future educational initiatives.
+In conclusion, a targeted approach to budget allocation and class size management could enhance academic outcomes within the local government area. These findings underscore the importance of data-driven decision-making in shaping future educational initiatives.
 
 
 
