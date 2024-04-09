@@ -128,7 +128,7 @@ Stratifying school performance based on size categories facilitated a nuanced un
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/4013aec4-4f87-4005-8723-36f7e819e62c)
 
-Created a DataFrame called that broke down `school performance based on school size`:
+Created a DataFrame that broke down `school performance based on school size`:
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/23d70d85-eddc-4b40-ad15-3a8a1618554a)
 
