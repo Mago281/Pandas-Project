@@ -140,7 +140,7 @@ The analysis also examined school performance concerning different types, provid
 
 Used the _`per_school_summary`_ DataFrame from the previous step to create a new DataFrame called _`type_summary`_.
 
-This new DataFrame `shows school performance` based on the `"School Type"`.
+This new DataFrame  _`type_summary`_ `shows school performance` based on the `"School Type"`.
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/e632d31b-7c31-4864-b80e-d0ff89fc639e)
 
