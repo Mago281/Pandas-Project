@@ -116,11 +116,11 @@ A detailed examination of school performance vis-a-vis average spending ranges p
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/ff203710-c690-4377-9af5-42647fded64c)
  
-Created four bins with reasonable cutoff values to group school spending and categorised spending based on these bins:
+Implemented four bins with appropriate cutoff values to categorize school spending, thereby enhancing the organization of expenditure data:
 
 <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/2079f0f9-b0d2-445d-b5a5-d556a9efa331" width="430" height="45">
 
-Used the scores above to create a DataFrame called _`spending_summary`_.
+Utilized the aforementioned scoring metrics to construct a meticulously structured DataFrame termed _`spending_summary`_
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/7e213fd4-f47c-4a72-92ed-b2bf8b5b32fa)
 
