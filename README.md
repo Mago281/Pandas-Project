@@ -62,7 +62,6 @@ ________________________________________
 ### School Summary
 
 A detailed breakdown of each school's performance metrics was presented, shedding light on crucial aspects such as passing grades and overall performance:
-
 <br>
 
 
