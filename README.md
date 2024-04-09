@@ -46,21 +46,22 @@ The resultant report encompasses the following components:
 This analysis serves as a crucial foundation for informed decision-making and strategic planning within our educational framework.
 ________________________________________
 
-## Analysis with Report
+## Analysis Report
 ________________________________________
 
 
 ### Local Government Area Summary
 
-Performed calculations and then created a high-level snapshot of the `local government area's key metrics` in a DataFrame:
+A comprehensive analysis was conducted to provide a succinct overview of key metrics within the local government area. Notably, the analysis encompassed math and reading scores of students, emphasizing a passing grade threshold of 50 or higher.
 
-**Note: _A passing grade is 50 or higher._**
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/13bf2d4e-35a2-4693-9f38-a671dd283a6b)
 
 ________________________________________
  
 ### School Summary
+
+A detailed breakdown of each school's performance metrics was presented, shedding light on crucial aspects such as passing grades and overall performance.
 
 Performed the necessary calculations and then created a DataFrame that `summarised key metrics about each school`:
 <br>
