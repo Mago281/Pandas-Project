@@ -126,8 +126,6 @@ ________________________________________
 
 Stratifying school performance based on size categories facilitated a nuanced understanding of the impact of school size on academic achievements:
 
-Binned the _`per_school_summary`_:
-
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/4013aec4-4f87-4005-8723-36f7e819e62c)
 
 Created a DataFrame called _`size_summary`_ that broke down `school performance based on school size` (small,
