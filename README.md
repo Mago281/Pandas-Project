@@ -25,11 +25,11 @@ Using Pandas and Jupyter Notebook, I created a report that included the followin
 **Background - Objective & Overview**
 ----------------------
 
-In my capacity as the new Chief Data Scientist for my local government area, I will be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+In my role as the newly appointed Chief Data Scientist for our local government, I am tasked with aiding the school board and mayor in making informed decisions regarding future school budgets and priorities.
 
-As a first task, I have been asked to analyse the area-wide standardised test results.  I have been given access to every student's maths and reading scores, as well as various information on the schools they attend.  My task is to aggregate the data to showcase obvious trends in school performance.
+My initial assignment involves conducting an in-depth analysis of area-wide standardized test results. With access to comprehensive data including math and reading scores of every student, as well as various school-related information, my objective is to synthesize this data to identify prominent trends in school performance.
 
-The final report includes each of the following:
+The resultant report encompasses the following components:
    - District Summary
    - School Summary
    - Top 5 Performing Schools (By % Overall Passing)
@@ -43,6 +43,7 @@ The final report includes each of the following:
    - School Type
    - Analysis
 
+This analysis serves as a crucial foundation for informed decision-making and strategic planning within our educational framework.
 ________________________________________
 
 ## Analysis with Report
