@@ -145,7 +145,7 @@ ________________________________________
 ________________________________________
 
 ### Budget Allocation Impact:
-Analysis revealed that funding levels did not consistently correlate with academic performance.  Lower per-student spending was associated with lower average scores and passing rates.
+My analysis revealed that funding levels did not consistently correlate with academic performance.  Lower per-student spending was associated with lower average scores and passing rates.
 
 ### School Size Matters:
 Smaller schools tended to outperform larger ones, suggesting that smaller class sizes contributed to higher academic success.     
