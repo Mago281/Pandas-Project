@@ -61,9 +61,8 @@ ________________________________________
  
 ### School Summary
 
-A detailed breakdown of each school's performance metrics was presented, shedding light on crucial aspects such as passing grades and overall performance.
+A detailed breakdown of each school's performance metrics was presented, shedding light on crucial aspects such as passing grades and overall performance:
 
-Performed the necessary calculations and then created a DataFrame that `summarised key metrics about each school`:
 <br>
 
 
@@ -77,7 +76,7 @@ ________________________________________
 
 ### Highest 5 Performing Schools by Percentage of Overall Passing
 
-Sorted the schools by `% Overall Passing` in descending order and displayed the top 5 rows:
+The top 5 performing schools were identified based on the percentage of overall passing rates, providing insights into exemplary educational institutions:
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/45653e1c-7282-49d8-9415-2e6cc4ec7c2d)
 
@@ -85,7 +84,7 @@ ________________________________________
 
 ### Lowest 5 Performing Schools by Percentage of Overall Passing
 
-Sorted the schools by `% Overall Passing` in ascending order and displayed the top 5 rows:
+Conversely, the bottom 5 performing schools were highlighted, emphasizing areas for improvement within the educational landscape:
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/a3aaebf7-421c-4445-84cf-b26ab215cbcf)
 
@@ -96,7 +95,7 @@ ________________________________________
 
 ### Math scores by Grade
 
-Performed the necessary calculations to create a DataFrame that listed the `average maths score` for students of each `year level (9, 10, 11, 12)` at each school:
+An insightful breakdown of `average maths scores` across various grade levels `(year levels 9 to 12)` provided valuable insights into academic performance trends:
 
    <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/973cb0f5-a537-4032-bda8-4b62caedb9bd" width="400" height="375">
 
@@ -104,8 +103,8 @@ ________________________________________
 
 ### Reading scores by Grade
 
-Performed the necessary calculations to create a DataFrame that listed the `average reading score` for students of each `year level (9, 10, 11, 12)` at each
-school:
+Similarly, the analysis extended to `average reading scores` across various grade levels `(year levels 9 to 12)`, contributing to a comprehensive understanding of educational dynamics.
+
 
    <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/868e97d3-a39c-4376-8588-27de7648bf5e" width="400" height="375">
 
@@ -113,7 +112,7 @@ ________________________________________
 
 ### Scores by School Spending
 
-Created a table that broke down `school performance based on average spending ranges` (per student).
+A detailed examination of school performance vis-a-vis average spending ranges per student revealed significant insights into the correlation between financial allocation and academic outcomes.
 
 ![image](https://github.com/Mago281/pandas-challenge/assets/131424690/ff203710-c690-4377-9af5-42647fded64c)
  
