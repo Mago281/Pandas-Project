@@ -1,20 +1,21 @@
-# pandas-challenge
-
-# PyCitySchools
+Pandas Project:  PyCitySchools
 ----------------------
 
 ## Introduction
 
 ***Applying Python Pandas into analysis via Jupyter Notebook.***
 
-In this challenge, I will be creating and manipulating Pandas DataFrames to analyse school and standardised test data.
+This project delves into the utilization of Python Pandas for data analysis within a Jupyter Notebook environment.
 
-The `PyCitySchools` Jupyter Notebook and following excel files were provided for this challenge:
+The focus lies on creating and manipulating Pandas DataFrames to dissect school-related data alongside standardized test scores.
+
+The PyCitySchools Jupyter Notebook and accompanying Excel files serve as the foundation for this endeavor:
 
    <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71" width="160" height="75">
 
-I used the sample solution called `PyCitySchools_starter.ipynb`  to review the desired format for this assignment.
+To ensure alignment with the project requirements, I referenced the provided sample solution named PyCitySchools_starter.ipynb.
 
+Utilizing Pandas and Jupyter Notebook, the analysis encompasses a comprehensive report featuring relevant datasets. Additionally, the report offers insights through a written narrative, elucidating two discernible trends extracted from the data.
 Using Pandas and Jupyter Notebook, I created a report that included the following data and included a written description of two observable trends based on the data.
 
 ---
