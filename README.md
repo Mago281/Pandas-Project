@@ -12,6 +12,7 @@ The PyCitySchools Jupyter Notebook and accompanying Excel files form the foundat
    <img src="https://github.com/Mago281/pandas-challenge/assets/131424690/f77ded6d-6ba1-4b43-b84b-b7df026e0d71" width="160" height="75">
 
 
+
 Using Pandas and Jupyter Notebook, this analysis culminates in a detailed report featuring relevant datasets and a narrative highlighting two key trends observed from the data.
 
 ---
